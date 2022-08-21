@@ -84,10 +84,8 @@ const initialsTwoMethod = map(koders, (koder) => {
 
 console.log(initials)
 
-// JSON.parse()
-// JSON.stringify()
 
-// objetos -> JSON
+
 
 
 
